@@ -1,4 +1,4 @@
-# Tech の部屋 Tello EDU 企画サンプルコード
+# Tech の部屋「Pythonで小型ドローン Tello EDU を飛ばす！」サンプルプログラム
 
 URL: https://www.youtube.com/channel/UCEAvmrrT8jXTpHNdrXUUVhQ
 
