@@ -4,7 +4,7 @@
 
 * ffmpeg: [https://www.ffmpeg.org/](https://www.ffmpeg.org/) 
 
-### MAC に ffmpeg をインストールする。
+### ffmpeg のインストール MAC 編
 
 下記 URL から MAC用の ffmpeg をダウンロードする。
 * [https://evermeet.cx/ffmpeg/ffmpeg-95589-gd3dee676b8.zip](https://evermeet.cx/ffmpeg/ffmpeg-95589-gd3dee676b8.zip)
